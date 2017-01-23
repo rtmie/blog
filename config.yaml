@@ -1,0 +1,26 @@
+languageCode: "en-gb"
+baseurl: "http://localhost:1313/"
+title: "Da Blog"
+canonifyurls: true
+paginate: 10
+copyright: "Code released under the Apache 2.0 license."
+theme: hugo-theme-nix
+author:
+    name: "Rob Mason"
+params:
+  TwitterID: "rtmie"
+  GithubID: "rtmie"
+  Name: "Rob Mason"
+  HeaderUsername: "robm"
+  HeaderHostname: "rob-mason.me"
+  ProfilePicture: "avat1.jpg"
+  About: "I'm Rob and I work as a systems engineer and sometime consultant. Pull up a chair while I ramble on about Linux, cloud, containers, rawk 'n' roll or whatever comes into my head."
+menu:
+  header:
+    - name: "About"
+      url: "/about"
+    - name: "Posts"
+      url: "/post/"
+taxonomies:
+  tags: "tags"
+  categories: "categories"
