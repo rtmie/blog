@@ -1,5 +1,5 @@
 languageCode: "en-gb"
-baseurl: "http://localhost:1313/"
+baseurl: "http://blog.rob-mason.me/"
 title: "Da Blog"
 canonifyurls: true
 paginate: 10
