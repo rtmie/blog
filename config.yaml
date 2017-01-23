@@ -13,7 +13,7 @@ params:
   Name: "Rob Mason"
   HeaderUsername: "robm"
   HeaderHostname: "rob-mason.me"
-  ProfilePicture: "avat1_40.jpg"
+  ProfilePicture: "avat1_40.png"
   About: "I'm Rob and I work as a systems engineer and sometime consultant. Pull up a chair while I ramble on about Linux, cloud, containers, rawk 'n' roll or whatever comes into my head."
 menu:
   header:
